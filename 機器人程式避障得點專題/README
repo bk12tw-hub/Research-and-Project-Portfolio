@@ -4,19 +4,13 @@
 -修課時間：2025年
 
 -說明：
+two robots both controlled by the controller written by the student and are required to find as many waypoints as possible while minimizing collisions with obstacles within a limited time.
+Each waypoint reached earns points, whereas any collision results in a deduction of marks
 
--學習收穫：
+-Total score: 50/50
 
 -軟體：Webots R2023b
 -語言：C
-
-## Feature
-
-
-## Directory Structure
-機器人程式避障得點專題/
-├─ Game             # 遊戲程式檔
-└─ 期末project       # 報告文字檔
 
 ## Demo 
 - [Demo Video (Youtube)](https://youtu.be/o0FUhi_PkDA)
