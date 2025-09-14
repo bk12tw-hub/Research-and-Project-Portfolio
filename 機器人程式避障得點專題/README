@@ -1,0 +1,22 @@
+## Midterm Project - Advanced Programming in Robotic Navigation
+
+-課程：機器人程式設計
+-修課時間：2025年
+
+-說明：
+
+-學習收穫：
+
+-軟體：Webots R2023b
+-語言：C
+
+## Feature
+
+
+## Directory Structure
+機器人程式避障得點專題/
+├─ Game             # 遊戲程式檔
+└─ 期末project       # 報告文字檔
+
+## Demo 
+- [Demo Video (Youtube)](https://youtu.be/o0FUhi_PkDA)
