@@ -1,0 +1,17 @@
+## Final Project - Advanced Programming in Robotic Navigation
+
+-課程：機器人程式設計
+-修課時間：2025年
+
+-說明：
+The e-puck starts at the origin and uses PN and CLOS algorithms to navigate waypoints and implement obstacle avoidance (the positions of the waypoints are announced by the supervisor and upudated whenever 
+a waypoint has been visited) . Another e-puck written by class profesor will activate some time after started to compete for the waypoints. 
+Each waypoint reached earns points, whereas any collision results in a deduction of marks.
+
+-Total score: 50/50
+
+-軟體：Webots R2023b
+-語言：C
+
+## Demo 
+- [Demo Video (Youtube)](https://youtu.be/Z5i5d0e-nUY)
