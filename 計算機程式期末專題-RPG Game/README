@@ -12,17 +12,14 @@
 -library：SFML
 
 ## Feature
-
 -角色控制、碰撞檢測
 -視角跟隨系統與介面
 -道具與撿拾系統
 
 ## Directory Structure
-
 計算機程式期末專題-RPG Game/
 ├─ Game             # 遊戲程式檔
 └─ 期末project       # 報告文字檔
 
 ## Demo 
-
 - [Demo Video (Youtube)](https://youtu.be/5DH-6zNNFo0)
