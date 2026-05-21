@@ -6,3 +6,7 @@ They are organized by course:
 - [計算機程式期末專題-RPG Game](./計算機程式期末專題-RPG%20Game)
 - [機器人程式避障得點專題](./機器人程式避障得點專題)  
 - [機器人程式導航尋點專題](./機器人程式導航尋點專題)  
+
+NYP
+
+- [Modified_openpi_model_for_autolife](./Openpi_model_for_Autolife)
